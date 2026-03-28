@@ -111,3 +111,17 @@ Very short-term interest rate
 10. CPI – Consumer Price Index
 
 
+
+
+sources:
+https://www.macrotrends.net/2549/pound-dollar-exchange-rate-historical-chart
+https://www.chicagofed.org/research/data/nfci/current-data
+https://www.newyorkfed.org/research/policy/gscpi#/overview
+https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RWTC&f=M
+
+
+could use:
+https://learn.microsoft.com/en-us/azure/open-datasets/dataset-us-labor-force?tabs=azureml-opendatasets
+
+bonds data (if results were not great)
+https://wrds-www.wharton.upenn.edu/pages/get-data/center-research-security-prices-crsp/
